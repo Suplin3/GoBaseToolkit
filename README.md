@@ -1,7 +1,7 @@
 ## Установка
 
 ~~~bash
-git clone https://github.com/Suplin3/go-base-toolkit.git
+git clone https://github.com/Suplin3/GoBaseToolkit.git
 cd go-base-toolkit
 ~~~
 
